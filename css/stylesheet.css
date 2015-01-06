@@ -1,0 +1,26 @@
+body {
+	background-image: url("../pictures/Birch.jpg");
+}
+
+h1 {
+	padding-top: 30px;
+}
+
+div {
+	margin-left: 80px;
+	margin-right: 80px;
+	height: 500px;
+	background-color: white;
+}
+
+input{
+	width: 600px;
+	margin-left: 160px;
+	height: 30px;
+	padding-top: 10px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	font-size: 20px;
+	outline: none;
+}
